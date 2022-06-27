@@ -1,0 +1,7 @@
+This file is to define roles 
+
+System Admin
+Admin
+Support Admin
+Tech lead
+Bussiness Head
